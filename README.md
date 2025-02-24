@@ -1,8 +1,6 @@
 # Fordpass Home Assistant Integration
-
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/itchannel)
 
 <!-- Wrote up a little note thing for the breaking change. Not sure if you want to use it but I figured this could be a good start or something since I was already editing the readme. -->
 > [!WARNING]
